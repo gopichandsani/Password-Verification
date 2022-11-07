@@ -48,6 +48,7 @@ the password. When the login form is submitted its underlying code checks that t
 credentials are authentic, giving the user can access the restricted page. If a user is 
 not able to provide authentic credentials they will not be able to proceed past the 
 login form.
+
 PASSWORD AUTHENTICATION :
 
 Password authentication is a process that involves a user inputting a unique ID and 
