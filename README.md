@@ -66,16 +66,5 @@ In password authentication, the user must supply a password for each server, and
 the administrator must keep track of the name and password for each user, typically 
 on separate servers
 
-![Login form](https://user-images.githubusercontent.com/98452202/200314655-6a5ee75d-34d4-4487-9774-0aa9a5f9771a.png)
 
-![signup form](https://user-images.githubusercontent.com/98452202/200314743-47ba5ce9-2c07-44dd-909c-d0af1c9229d2.png)
-
-![green](https://user-images.githubusercontent.com/98452202/200314812-1b9b9171-2ae7-429a-8845-ca1d62357369.png)
-![output 2](https://us![output 4](https://user-images.githubusercontent.com/98452202/200315070-60374631-83b8-441d-be8f-988468150cb8.png)
-
-er-images.githubusercontent.com/98452202/200315001-7db33d0d-9650-4383-b482-ee359c76acbd.png)
-![output 5](https://user-images.githubusercontent.com/98452202/200315034-377494fd-b5fb-471e-b9d2-4257980c13db.png)
-
-![output 3](https://user-images.githubusercontent.com/98452202/200315151-db03ba62-2bad-4cdd-a6da-8ad9be0a63e7.png)
-![output 1](https://user-images.githubusercontent.com/98452202/200315169-a34ef523-b58a-49c0-b7ed-200c02adf9c7.png)
 
