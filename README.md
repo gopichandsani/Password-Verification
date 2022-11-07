@@ -1,10 +1,12 @@
 # Password-Verification
 
-2.1 AIM 
+ AIM :
+
 To create a login and signup page . At login page we have to provide the interface to 
 users to enter in to the website . In signup we collect the users name and password 
 and evaluate them to create his profile
-2.2 SCOPE 
+
+SCOPE 
 
 CREATE A SIGNUP FORM:
 
